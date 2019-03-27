@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-image: url("https://i.pinimg.com/236x/bc/9c/53/bc9c53db9a7ff7c9ca8af2283f264b4f--star-wars-birthday-invitations-star-wars-party-invitations.jpg");
+}
+
+.contentcontainer {
+  text-align: center;
+  position: relative;
+}
+
+h1 {
+  color: #ffd700;
+  font-size: 3em;
+}
+
+h2 {
+  color: white;
+  font-size: 2em;
+}
+
+img {
+  display: block;
+  margin: auto;
+  border: .25em solid white;
+  border-radius: 1.5em;
+}
+
+button {
+  margin: .5em;
+  border: .15em solid white;
+  border-radius: 1.5em;
+  background-color: #31bca7;
+  color: white;
+  font-size: 1.5em;
+  padding: .5em;
+}
+
+.profile-information {
+  width: 10em;
+
+}
