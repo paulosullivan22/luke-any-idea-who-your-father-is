@@ -14,9 +14,13 @@ h1 {
   font-size: 3em;
 }
 
-h2 {
+#resultName {
   color: white;
   font-size: 2em;
+}
+
+#resultText {
+  color: white;
 }
 
 img {
@@ -38,5 +42,4 @@ button {
 
 .profile-information {
   width: 10em;
-
 }
